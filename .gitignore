@@ -1,0 +1,14 @@
+# Backend (.NET)
+bin/
+obj/
+*.user
+*.suo
+*.vs/
+
+# Frontend (React/Node)
+node_modules/
+build/
+.env
+
+# GitHub Actions
+.github/
